@@ -1,4 +1,4 @@
-FROM node:8-alpine
+FROM node:latest
 LABEL MAINTAINER="briangonzalez"
 LABEL version="1.1"
 
