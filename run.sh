@@ -1,2 +1,2 @@
-#!/bin/ash
+#!/bin/sh
 node /app/server/server.js
